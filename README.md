@@ -4,7 +4,7 @@ This project is about the setting a react-native mobile application with redux u
 
 ## Steps
 
-Clone repository using [Link](https://github.com/patelsaheb1219/react-redux.git). Then
+Clone repository using [Link](https://github.com/patelsaheb1219/react-native-redux.git). Then
 
 ### `npm start`
 
